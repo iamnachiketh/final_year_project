@@ -1,0 +1,2 @@
+panel serve current_oil_reserves_satellite_analysis.py historical_oil_reserves_analysis.py arcnudge.py
+pause
