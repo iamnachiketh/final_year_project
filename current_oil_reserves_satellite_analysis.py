@@ -18,7 +18,7 @@ with open('output.json','r') as f:
     oil_levels = f.read()
 oil_levels = dict(oil_levels)
 '''
-oil_levels = {"uk":34881.0,"denmark":3630.0,"italy":3481.0,"romania":2590.0,"turkey":"2380.0","Test":""}
+oil_levels = {"uk":14.912937,"denmark":79.555449498,"italy":15.78222023,"romania":52.0124,"turkey":19.06636,"Test":""}
 print(type(oil_levels))
 menu_items = ['Denmark','Italy','Turkey','UK','Romania']
 import os
